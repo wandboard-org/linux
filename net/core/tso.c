@@ -1,4 +1,5 @@
 #include <net/ip.h>
+#include <net/tcp.h>
 #include <net/tso.h>
 
 /* Calculate expected number of TX descriptors */
